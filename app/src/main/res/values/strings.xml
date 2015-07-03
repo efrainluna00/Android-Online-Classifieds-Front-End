@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eshop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="service_not_available">Service is not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates</string>
+    <string name="no_address_found">Address could not be found</string>
+    <string name="title_activity_get_position">getPosition</string>
+</resources>
